@@ -11,7 +11,7 @@ For a walkthrough of these exploits, watch the full video on YouTube:
 [walkthrough](https://youtu.be/jAbmPTjACf0)
 
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;Indented text or margin effect.
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 1. Login Bypass with SQL Injection
 

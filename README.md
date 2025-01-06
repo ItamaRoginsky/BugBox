@@ -45,6 +45,7 @@ python -m venv venv
 
 ## Linux
 ```bash
+sudo apt install flask
 sudo apt install python3-venv
 python -m venv venv
 source venv/bin/activate

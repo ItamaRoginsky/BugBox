@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>BugBox - Login</title>
+    <link rel="stylesheet" type="text/css" href="/static/styles.css">
+</head>
+<body>
+    <h2>Vulnerable Login (SQLi)</h2>
+    <p>
+        <a href="/">Home</a> | 
+        <a href="/admin">Admin Panel</a>
+    </p>
+    <form method="POST" action="/login">
+        <label>Username: <input type="text" name="username" /></label><br><br>
+        <label>Password: <input type="password" name="password" /></label><br><br>
+        <button type="submit">Login</button>
+    </form>
+</body>
+</html>

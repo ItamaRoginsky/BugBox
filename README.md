@@ -26,7 +26,6 @@ Open your terminal or command prompt and execute:
 ```bash
 git clone https://github.com/ItamaRoginsky/BugBox.git
 ```
-
 ```bash
 cd BugBox
 ```

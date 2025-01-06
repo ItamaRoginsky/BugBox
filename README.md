@@ -43,7 +43,8 @@ python -m venv venv
 
 ## Linux
 ```bash
-python3 -m venv venv
+sudo apt install python3-venv
+python -m venv venv
 source venv/bin/activate
 ```
 

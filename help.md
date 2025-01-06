@@ -15,7 +15,9 @@ For a walkthrough of these exploits, watch the full video on YouTube:
 
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
+# Text Walkthrough
 ## 1. Login Bypass with SQL Injection
 
 ### Steps:
@@ -29,8 +31,8 @@ http://127.0.0.1:5000/login
 ```
 3. Now you`re logged in to the system
 
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 2. Cross-Site Scripting (XSS) in Comment Feature
 
@@ -45,6 +47,8 @@ http://127.0.0.1:5000/user_home
 ```
 3. Submit the comment.
 4. The system runs the xss
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 3. File Upload Vulnerability
 
@@ -58,6 +62,8 @@ http://127.0.0.1:5000/user_home
 - The uploaded file executes on the server without user intervention.
 - If the file is a reverse shell, it can establish a connection back to an attacker-controlled system, granting remote access to the server.
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 4. Broken Access Authentication
 

@@ -1,14 +1,17 @@
 # BugBox  Walkthrough
 
 This document provides a step-by-step guide to exploiting the vulnerabilities in the **BugBox** application. you can use the video walkthrough or text walkthrough, both below.
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
 
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-Video Walkthrough
+# Video Walkthrough
 For a walkthrough of these exploits, watch the full video on YouTube:
 
 [walkthrough](https://youtu.be/jAbmPTjACf0)
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;
